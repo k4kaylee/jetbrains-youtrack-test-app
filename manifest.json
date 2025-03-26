@@ -1,0 +1,22 @@
+{
+  "name": "my-app",
+  "title": "My App",
+  "description": "mmm",
+  "$schema": "https://json.schemastore.org/youtrack-app.json",
+  "vendor": {
+    "name": "m",
+    "url": "https://kulpeksha.youtrack.cloud"
+  },
+  "icon": "icon.svg",
+  "widgets": [
+
+    {
+      "key": "1",
+      "name": "Main",
+      "indexPath": "1/index.html",
+      "extensionPoint": "MAIN_MENU_ITEM",
+      "iconPath": "1/widget-icon.svg",
+      "description": "mmm"
+    }
+  ]
+}
