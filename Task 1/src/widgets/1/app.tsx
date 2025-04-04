@@ -5,7 +5,6 @@ import Loader from '@jetbrains/ring-ui-built/components/loader/loader';
 import ContentLayout from '@jetbrains/ring-ui-built/components/content-layout/content-layout';
 import Toggle, { Size } from '@jetbrains/ring-ui-built/components/toggle/toggle';
 import Heading, { H2 } from '@jetbrains/ring-ui-built/components/heading/heading';
-import Button from '@jetbrains/ring-ui-built/components/Button/Button';
 import { fetchProjects, fetchFlag, setFlag } from './api';
 
 interface AppProps {
