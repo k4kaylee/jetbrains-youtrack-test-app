@@ -4,6 +4,10 @@
     "title": "Title text by Roma",
     "description": "",
     "properties": {
+        "flag": {
+            "type": "boolean",
+            "x-scope": "GLOBAL"
+          }
     },
     "required":[
     ]

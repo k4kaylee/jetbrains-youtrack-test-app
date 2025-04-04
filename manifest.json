@@ -16,7 +16,7 @@
       "indexPath": "1/index.html",
       "extensionPoint": "MAIN_MENU_ITEM",
       "iconPath": "1/widget-icon.svg",
-      "description": "mmm"
+      "description": "Main menu description"
     }
   ]
 }
